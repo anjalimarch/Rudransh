@@ -1,28 +1,28 @@
 <testng-results>
   <reporter-output>
   </reporter-output>
-  <suite name="test" duration-ms="202" started-at="2016-04-13T17:08:04Z" finished-at="2016-04-13T17:08:04Z">
+  <suite name="test" duration-ms="279" started-at="2016-04-13T17:15:05Z" finished-at="2016-04-13T17:15:05Z">
     <groups>
     </groups>
-    <test name="Learning Batch" duration-ms="22" started-at="2016-04-13T17:08:04Z" finished-at="2016-04-13T17:08:04Z">
+    <test name="Learning Batch" duration-ms="18" started-at="2016-04-13T17:15:05Z" finished-at="2016-04-13T17:15:05Z">
       <class name="test.YahooLogin">
-        <test-method status="PASS" signature="Beforefirst()" name="Beforefirst" is-config="true" duration-ms="0" started-at="2016-04-13T17:08:04Z" finished-at="2016-04-13T17:08:04Z">
+        <test-method status="PASS" signature="Beforefirst()" name="Beforefirst" is-config="true" duration-ms="1" started-at="2016-04-13T17:15:05Z" finished-at="2016-04-13T17:15:05Z">
         </test-method>
-        <test-method status="PASS" signature="Login()" name="Login" duration-ms="2" started-at="2016-04-13T17:08:04Z" finished-at="2016-04-13T17:08:04Z">
+        <test-method status="PASS" signature="Login()" name="Login" duration-ms="1" started-at="2016-04-13T17:15:05Z" finished-at="2016-04-13T17:15:05Z">
         </test-method>
-        <test-method status="PASS" signature="loginCarefully()" name="loginCarefully" duration-ms="0" started-at="2016-04-13T17:08:04Z" finished-at="2016-04-13T17:08:04Z">
+        <test-method status="PASS" signature="loginCarefully()" name="loginCarefully" duration-ms="1" started-at="2016-04-13T17:15:05Z" finished-at="2016-04-13T17:15:05Z">
         </test-method>
-        <test-method status="PASS" signature="AfterLast()" name="AfterLast" is-config="true" duration-ms="1" started-at="2016-04-13T17:08:04Z" finished-at="2016-04-13T17:08:04Z">
+        <test-method status="PASS" signature="AfterLast()" name="AfterLast" is-config="true" duration-ms="0" started-at="2016-04-13T17:15:05Z" finished-at="2016-04-13T17:15:05Z">
         </test-method>
       </class>
     </test>
-    <test name="Testtwo Login" duration-ms="11" started-at="2016-04-13T17:08:04Z" finished-at="2016-04-13T17:08:04Z">
+    <test name="Testtwo Login" duration-ms="12" started-at="2016-04-13T17:15:05Z" finished-at="2016-04-13T17:15:05Z">
       <class name="test.LoginTest">
-        <test-method status="PASS" signature="beforeTest()" name="beforeTest" is-config="true" duration-ms="0" started-at="2016-04-13T17:08:04Z" finished-at="2016-04-13T17:08:04Z">
+        <test-method status="PASS" signature="beforeTest()" name="beforeTest" is-config="true" duration-ms="0" started-at="2016-04-13T17:15:05Z" finished-at="2016-04-13T17:15:05Z">
         </test-method>
-        <test-method status="PASS" signature="beforeMethod()" name="beforeMethod" is-config="true" duration-ms="3" started-at="2016-04-13T17:08:04Z" finished-at="2016-04-13T17:08:04Z">
+        <test-method status="PASS" signature="beforeMethod()" name="beforeMethod" is-config="true" duration-ms="3" started-at="2016-04-13T17:15:05Z" finished-at="2016-04-13T17:15:05Z">
         </test-method>
-        <test-method status="PASS" signature="parameterization(java.lang.String, java.lang.String)" name="parameterization" duration-ms="1" started-at="2016-04-13T17:08:04Z" finished-at="2016-04-13T17:08:04Z">
+        <test-method status="PASS" signature="parameterization(java.lang.String, java.lang.String)" name="parameterization" duration-ms="1" started-at="2016-04-13T17:15:05Z" finished-at="2016-04-13T17:15:05Z">
           <params>
             <param index="0">
               <value>
@@ -36,13 +36,13 @@
             </param>
           </params>
         </test-method>
-        <test-method status="PASS" signature="afterMethod()" name="afterMethod" is-config="true" duration-ms="0" started-at="2016-04-13T17:08:04Z" finished-at="2016-04-13T17:08:04Z">
+        <test-method status="PASS" signature="beforeMethod()" name="beforeMethod" is-config="true" duration-ms="1" started-at="2016-04-13T17:15:05Z" finished-at="2016-04-13T17:15:05Z">
         </test-method>
-        <test-method status="PASS" signature="beforeMethod()" name="beforeMethod" is-config="true" duration-ms="1" started-at="2016-04-13T17:08:04Z" finished-at="2016-04-13T17:08:04Z">
+        <test-method status="PASS" signature="afterMethod()" name="afterMethod" is-config="true" duration-ms="0" started-at="2016-04-13T17:15:05Z" finished-at="2016-04-13T17:15:05Z">
         </test-method>
-        <test-method status="PASS" signature="afterMethod()" name="afterMethod" is-config="true" duration-ms="1" started-at="2016-04-13T17:08:04Z" finished-at="2016-04-13T17:08:04Z">
+        <test-method status="PASS" signature="afterMethod()" name="afterMethod" is-config="true" duration-ms="1" started-at="2016-04-13T17:15:05Z" finished-at="2016-04-13T17:15:05Z">
         </test-method>
-        <test-method status="PASS" signature="parameterization(java.lang.String, java.lang.String)" name="parameterization" duration-ms="0" started-at="2016-04-13T17:08:04Z" finished-at="2016-04-13T17:08:04Z">
+        <test-method status="PASS" signature="parameterization(java.lang.String, java.lang.String)" name="parameterization" duration-ms="0" started-at="2016-04-13T17:15:05Z" finished-at="2016-04-13T17:15:05Z">
           <params>
             <param index="0">
               <value>
@@ -56,9 +56,9 @@
             </param>
           </params>
         </test-method>
-        <test-method status="PASS" signature="beforeMethod()" name="beforeMethod" is-config="true" duration-ms="0" started-at="2016-04-13T17:08:04Z" finished-at="2016-04-13T17:08:04Z">
+        <test-method status="PASS" signature="beforeMethod()" name="beforeMethod" is-config="true" duration-ms="0" started-at="2016-04-13T17:15:05Z" finished-at="2016-04-13T17:15:05Z">
         </test-method>
-        <test-method status="PASS" signature="parameterization(java.lang.String, java.lang.String)" name="parameterization" duration-ms="1" started-at="2016-04-13T17:08:04Z" finished-at="2016-04-13T17:08:04Z">
+        <test-method status="PASS" signature="parameterization(java.lang.String, java.lang.String)" name="parameterization" duration-ms="1" started-at="2016-04-13T17:15:05Z" finished-at="2016-04-13T17:15:05Z">
           <params>
             <param index="0">
               <value is-null="true"/>
@@ -68,17 +68,17 @@
             </param>
           </params>
         </test-method>
-        <test-method status="PASS" signature="afterMethod()" name="afterMethod" is-config="true" duration-ms="0" started-at="2016-04-13T17:08:04Z" finished-at="2016-04-13T17:08:04Z">
+        <test-method status="PASS" signature="afterMethod()" name="afterMethod" is-config="true" duration-ms="0" started-at="2016-04-13T17:15:05Z" finished-at="2016-04-13T17:15:05Z">
         </test-method>
-        <test-method status="PASS" signature="afterTest()" name="afterTest" is-config="true" duration-ms="0" started-at="2016-04-13T17:08:04Z" finished-at="2016-04-13T17:08:04Z">
+        <test-method status="PASS" signature="afterTest()" name="afterTest" is-config="true" duration-ms="1" started-at="2016-04-13T17:15:05Z" finished-at="2016-04-13T17:15:05Z">
         </test-method>
       </class>
     </test>
-    <test name="Selling Books" duration-ms="4" started-at="2016-04-13T17:08:04Z" finished-at="2016-04-13T17:08:04Z">
+    <test name="Selling Books" duration-ms="19" started-at="2016-04-13T17:15:05Z" finished-at="2016-04-13T17:15:05Z">
       <class name="test.LogoutTest">
-        <test-method status="PASS" signature="beforeSuite()" name="beforeSuite" is-config="true" duration-ms="19" started-at="2016-04-13T17:08:04Z" finished-at="2016-04-13T17:08:04Z">
+        <test-method status="PASS" signature="beforeSuite()" name="beforeSuite" is-config="true" duration-ms="21" started-at="2016-04-13T17:15:05Z" finished-at="2016-04-13T17:15:05Z">
         </test-method>
-        <test-method status="SKIP" signature="beforeTest()" name="beforeTest" is-config="true" duration-ms="0" started-at="2016-04-13T17:08:04Z" finished-at="2016-04-13T17:08:04Z">
+        <test-method status="SKIP" signature="beforeTest()" name="beforeTest" is-config="true" duration-ms="0" started-at="2016-04-13T17:15:05Z" finished-at="2016-04-13T17:15:05Z">
           <exception class="org.testng.SkipException">
             <message>
               <![CDATA[because of this ]]>
@@ -111,15 +111,15 @@
             </full-stacktrace>
           </exception>
         </test-method>
-        <test-method status="SKIP" signature="beforeMethod()" name="beforeMethod" is-config="true" duration-ms="0" started-at="2016-04-13T17:08:04Z" finished-at="2016-04-13T17:08:04Z">
+        <test-method status="SKIP" signature="beforeMethod()" name="beforeMethod" is-config="true" duration-ms="0" started-at="2016-04-13T17:15:05Z" finished-at="2016-04-13T17:15:05Z">
         </test-method>
-        <test-method status="SKIP" signature="afterTest()" name="afterTest" is-config="true" duration-ms="0" started-at="2016-04-13T17:08:04Z" finished-at="2016-04-13T17:08:04Z">
+        <test-method status="SKIP" signature="foooool()" name="foooool" duration-ms="1" started-at="2016-04-13T17:15:05Z" finished-at="2016-04-13T17:15:05Z">
         </test-method>
-        <test-method status="SKIP" signature="afterMethod()" name="afterMethod" is-config="true" duration-ms="0" started-at="2016-04-13T17:08:04Z" finished-at="2016-04-13T17:08:04Z">
+        <test-method status="SKIP" signature="afterTest()" name="afterTest" is-config="true" duration-ms="0" started-at="2016-04-13T17:15:05Z" finished-at="2016-04-13T17:15:05Z">
         </test-method>
-        <test-method status="SKIP" signature="foooool()" name="foooool" duration-ms="0" started-at="2016-04-13T17:08:04Z" finished-at="2016-04-13T17:08:04Z">
+        <test-method status="SKIP" signature="afterMethod()" name="afterMethod" is-config="true" duration-ms="0" started-at="2016-04-13T17:15:05Z" finished-at="2016-04-13T17:15:05Z">
         </test-method>
-        <test-method status="SKIP" signature="afterSuite()" name="afterSuite" is-config="true" duration-ms="0" started-at="2016-04-13T17:08:04Z" finished-at="2016-04-13T17:08:04Z">
+        <test-method status="SKIP" signature="afterSuite()" name="afterSuite" is-config="true" duration-ms="0" started-at="2016-04-13T17:15:05Z" finished-at="2016-04-13T17:15:05Z">
         </test-method>
       </class>
     </test>

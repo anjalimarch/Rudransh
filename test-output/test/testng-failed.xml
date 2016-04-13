@@ -2,12 +2,6 @@
 <suite name="Failed suite [test]" parallel="false">
   <test name="Selling Books(failed)">
     <classes>
-      <class name="test.YahooLogin">
-        <methods>
-          <include name="AfterLast"/>
-          <include name="Beforefirst"/>
-        </methods>
-      </class>
       <class name="test.LoginTest">
         <methods>
           <include name="beforeMethod"/>
@@ -21,6 +15,12 @@
           <include name="beforeTest"/>
           <include name="beforeSuite"/>
           <include name="foooool"/>
+        </methods>
+      </class>
+      <class name="test.YahooLogin">
+        <methods>
+          <include name="AfterLast"/>
+          <include name="Beforefirst"/>
         </methods>
       </class>
     </classes>
