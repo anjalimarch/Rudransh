@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite hostname="welcome-PC" name="test.LogoutTest" tests="1" failures="0" timestamp="13 Apr 2016 11:29:05 GMT" time="0.004" errors="0">
+<testsuite hostname="welcome-PC" name="test.LogoutTest" tests="1" failures="0" timestamp="13 Apr 2016 11:38:04 GMT" time="0.004" errors="0">
   <testcase name="@BeforeTest beforeTest" time="0.0" classname="test.LogoutTest">
     <skipped/>
   </testcase>
